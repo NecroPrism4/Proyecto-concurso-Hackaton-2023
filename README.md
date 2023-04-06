@@ -1,4 +1,4 @@
-This is a little project made during one night during the Hackaton Sonora 2023.
+This is a little project made during one night for the Hackaton Sonora 2023.
 
 We had to solve any problem or circunstance related to the Renovable Ennergies Industry.
 
